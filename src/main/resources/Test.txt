@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/31791555/powershell-script-to-upload-an-entire-folder-to-ftp
